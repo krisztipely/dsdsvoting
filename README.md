@@ -49,4 +49,4 @@ Implement user authentication for secure voting.
 Expand the program to handle additional features such as contestant profiles, elimination rounds, or real-time voting updates.
 
 ## License
-MIT 2023, Krisztina-Ronkainen Lakner
+[MIT](https://github.com/krisztipely/dsdsvoting/blob/master/LICENSE) 2023, Krisztina-Ronkainen Lakner
